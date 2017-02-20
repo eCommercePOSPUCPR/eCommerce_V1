@@ -1,0 +1,18 @@
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\eStore.Entities.dll.config
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\eStore.Entities.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\eStore.Entities.pdb
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\EntityFramework.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\EntityFramework.SqlServer.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\EntityFramework.xml
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\bin\EntityFramework.SqlServer.xml
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\obj\Debug\eStore.Entities.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Entities\obj\Debug\eStore.Entities.pdb
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\eStore.Entities.dll.config
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\eStore.Entities.dll
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\eStore.Entities.pdb
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\EntityFramework.dll
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\EntityFramework.SqlServer.dll
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\EntityFramework.xml
+E:\Projeto Final\eStoreV4\eStore.Entities\bin\EntityFramework.SqlServer.xml
+E:\Projeto Final\eStoreV4\eStore.Entities\obj\Debug\eStore.Entities.dll
+E:\Projeto Final\eStoreV4\eStore.Entities\obj\Debug\eStore.Entities.pdb
