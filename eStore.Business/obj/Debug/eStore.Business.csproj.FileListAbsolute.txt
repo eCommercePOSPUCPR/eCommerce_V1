@@ -1,0 +1,20 @@
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\eStore.Business.dll.config
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\eStore.Business.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\eStore.Business.pdb
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\eStore.Entities.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\EntityFramework.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\eStore.Entities.pdb
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\bin\EntityFramework.xml
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\obj\Debug\eStore.Business.csprojResolveAssemblyReference.cache
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\obj\Debug\eStore.Business.dll
+C:\Users\Multivac\Documents\Visual Studio 2013\Projects\eStore\eStore.Business\obj\Debug\eStore.Business.pdb
+E:\Projeto Final\eStoreV4\eStore.Business\bin\eStore.Business.dll.config
+E:\Projeto Final\eStoreV4\eStore.Business\bin\eStore.Business.dll
+E:\Projeto Final\eStoreV4\eStore.Business\bin\eStore.Business.pdb
+E:\Projeto Final\eStoreV4\eStore.Business\bin\eStore.Entities.dll
+E:\Projeto Final\eStoreV4\eStore.Business\bin\EntityFramework.dll
+E:\Projeto Final\eStoreV4\eStore.Business\bin\eStore.Entities.pdb
+E:\Projeto Final\eStoreV4\eStore.Business\bin\EntityFramework.xml
+E:\Projeto Final\eStoreV4\eStore.Business\obj\Debug\eStore.Business.csprojResolveAssemblyReference.cache
+E:\Projeto Final\eStoreV4\eStore.Business\obj\Debug\eStore.Business.dll
+E:\Projeto Final\eStoreV4\eStore.Business\obj\Debug\eStore.Business.pdb
